@@ -1,0 +1,6 @@
+{
+  "name": "Ghana Artisan Marketplace",
+  "description": "A trusted platform to find, book, and rate verified local artisans such as electricians, plumbers, carpenters, painters, and mechanics in Ghana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
